@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors:Game 🎮
+# Rock-Paper-Scissors:Game 
 This is my **first Python project**  
 A simple Rock-Paper-Scissors game you can play in the terminal. Built to practice Python basics.
 
@@ -10,7 +10,7 @@ A simple Rock-Paper-Scissors game you can play in the terminal. Built to practic
 python rps.py
 
 
-**Gameplay Features🎮**
+**Gameplay Features**
 Play against the computer,
 Win/loss/tie logic,
 Random computer choices,
